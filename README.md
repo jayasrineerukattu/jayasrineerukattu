@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jayasrineerukattu
-- 👀 I’m interested in hardware and software 
+- 👋 Hi, I’m jayasri
+- 👀 I’m interested in designing 
 - 🌱 I’m currently learning electronics design
 - 📫 How to reach me njayasree8897@gmail.com
 - 😄 Pronouns:jaya
